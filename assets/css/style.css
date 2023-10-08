@@ -860,6 +860,10 @@ section {
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
+.pricing {
+  padding: 0 0 0 0 !important;
+}
+
 .cta {
   background: linear-gradient(rgba(12, 13, 14, 0.8), rgba(12, 13, 14, 0.8)), url("../img/backgrounds/hero_bg_1.jpg") fixed center center;
   background-size: cover;
@@ -1418,10 +1422,6 @@ section {
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
-}
-
-.cta {
-  padding: 0 0 0 0 !important;
 }
 
 #footer .footer-newsletter {
