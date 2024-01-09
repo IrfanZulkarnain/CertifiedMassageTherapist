@@ -978,7 +978,7 @@ section {
   padding: 20px;
 }
 
-.portfolio .portfolio-wrap .portfolio-info h4 {
+.portfolio .portfolio-wrap .portfolio-info span {
   font-size: 20px;
   color: #fff;
   font-weight: 600;
